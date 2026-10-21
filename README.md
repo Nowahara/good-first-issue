@@ -5,17 +5,17 @@
 </p>
 <hr>
 
-Welcome! 👋🏼
+欢迎！👋🏼
+- Test contribution by Nowahara
+**新手任务**是一项旨在从热门项目中挑选易于完成的任务的倡议，以便从未为开源项目做出过贡献的开发者能够快速入门。
 
-**Good First Issue** is an initiative to curate easy pickings from popular projects, so developers who've never contributed to open-source can get started quickly.
+开源维护者总是希望有更多人参与进来，但新开发者通常认为成为贡献者是一项挑战。我们认为，让开发者修复超级简单的任务可以消除未来贡献的障碍。这就是“Good First Issue”存在的意义。
 
-Open-source maintainers are always looking to get more people involved, but new developers generally think it's challenging to become a contributor. We believe getting developers to fix super-easy issues removes the barrier for future contributions. This is why Good First Issue exists.
+## 添加新项目
 
-## Adding a new project
+欢迎您向 Good First Issue 添加新项目，我们鼓励所有项目 — 无论新旧、大小。
 
-You're welcome to add a new project to Good First Issue, and we encourage all projects &mdash; old and new, big and small.
-
-**[Submit your repository via this form](https://docs.google.com/forms/d/e/1FAIpQLSfHSt8UHvACokWv8uwiImidTIhuSCAUXnvSGs-TULshdLl9Qw/viewform?usp=header)**
+**[通过此表单提交您的仓库](https://docs.google.com/forms/d/e/1FAIpQLSfHSt8UHvACokWv8uwiImidTIhuSCAUXnvSGs-TULshdLl9Qw/viewform?usp=header)**
 
 To maintain the quality of projects in Good First Issue, please make sure your GitHub repository meets the following criteria:
 
